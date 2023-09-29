@@ -1,0 +1,44 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.8rem;
+    line-height: 140%;
+}
+
+div.list{
+    width: 40rem;
+    height: 30rem;
+    background: #292d7b;
+    font-family: Verdana, sans-serif;
+
+}
+
+ul{
+    list-style: square inside url("/CSS_5/img/8-bit-amogus.png");
+}
+
+ul.list{
+    color: #fbf6df;
+    font-size: 75%;
+}
+
+
+.dag{
+    color: #9497db;
+    position: relative;
+    left: 8px;
+}
+
+.table{
+    font-size: 28px;
+    width: 400px;
+    background-color: ;
+}
+
+table{
+    width: 2000px;
+}
+
+
+
