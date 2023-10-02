@@ -15,7 +15,7 @@ div.list{
 }
 
 ul{
-    list-style: square inside url("/CSS_5/img/8-bit-amogus.png");
+    list-style: square inside url("../img/8-bit-amogus.png");
 }
 
 ul.list{
@@ -33,7 +33,6 @@ ul.list{
 .table{
     font-size: 28px;
     width: 400px;
-    background-color: ;
 }
 
 table{
