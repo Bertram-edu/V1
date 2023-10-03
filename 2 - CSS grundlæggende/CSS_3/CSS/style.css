@@ -30,9 +30,11 @@ h2{
     background-position: center;
     background-size: 25px;
 }
-/*.four{
-
-}*/
+.four{
+    background-image: url(../imgs/light-bulb.png);
+    background-position: center;
+    background-size: cover;
+}
 
 h3{
     background-color: black;

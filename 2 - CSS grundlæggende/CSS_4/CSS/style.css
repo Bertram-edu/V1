@@ -17,7 +17,7 @@ h3{
 
 @font-face {
     font-family: firasans-extralight;
-    src: url(/fonts/fira-sans/FiraSans-ExtraLight.otf);
+    src: url(../../fonts/fira-sans/FiraSans-ExtraLight.otf);
 }
 
 .custom{
@@ -27,7 +27,7 @@ h3{
 
 @font-face {
     font-family: minecraft;
-    src: url(/fonts/minecraft/Minecraftia-Regular.ttf);
+    src: url(../../fonts/minecraft/Minecraftia-Regular.ttf);
 }
 
 .typography{
