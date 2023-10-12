@@ -59,8 +59,9 @@ div.layout header{
 }
 
 div.layout header h3{
+    margin: 0;
     position: absolute;
-    top: -12px;
+    top: 0px;
     left: 0px;
 }
 
