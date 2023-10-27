@@ -58,9 +58,6 @@ nav img
 
 /* Content area styling */
 
-body{
-
-}
 
 main
 {
@@ -76,7 +73,6 @@ footer p
 {
     margin-bottom: 0;
 }
-
 
 nav ul{
     display: flex;
@@ -99,16 +95,10 @@ nav{
     justify-content: space-between;
 }
 
-main{
-    
-}
-
 main section article{
     display: flex;
     flex-direction: row;
 }
-
-
 
 footer{
     position: absolute;
